@@ -1,20 +1,21 @@
-# Security Study Plan
+# Cyber Security Study Plan
 
-A Practical Study Plan to become a successful cybersecurity engineer based on roles like Pentest, AppSec, Cloud Security, DevSecOps and so on with free/paid resources, tools and concepts to excel.
+A Practical Study Plan to become a successful cybersecurity engineer with free/paid resources, tools and concepts to excel.
 
 **It will cover but not limited to:**
 
 1. [Common Skills for Security Study Plan](common-skills-study-plan.md)
 2. [AWS Security Study Plan](aws-security-study-plan.md)
-3. [GCP Security Study Plan](gcp-security-study-plan.md)
-4. [Azure Security Study Plan](azure-security-study-plan.md)
-5. [DevSecOps Study Plan](devsecops-study-plan.md)
-6. [Docker Security Study Plan](docker-security-study-plan.md)
-7. [Kubernetes Security Study Plan](kubernetes-security-study-plan.md)
-8. [Web Penetration Testing Study Plan](web-pentest-study-plan.md)
-9. [Application Security Testing Plan](application-security-study-plan.md)
-10. [API Security Study Plan](api-security-study-plan.md)
-11. [Network Security Study Plan](network-security-study-plan.md)
+3. [Azure Security Study Plan](azure-security-study-plan.md)
+4. [DevSecOps Study Plan](devsecops-study-plan.md)
+5. [Docker Security Study Plan](docker-security-study-plan.md)
+6. [Kubernetes Security Study Plan](kubernetes-security-study-plan.md)
+7. [Web Penetration Testing Study Plan](web-pentest-study-plan.md)
+8. [Application Security Testing Plan](application-security-study-plan.md)
+9. [API Security Study Plan](api-security-study-plan.md)
+10. [Network Security Study Plan](network-security-study-plan.md)
+11. [Fortinet Network Security Engineer]
+12 [Qualys Vulnerability, Detection and Response Engineer]
 
 I got the idea of creating this repo after seeing [coding-interview-security](https://github.com/jwasham/coding-interview-university) as it echoes the journey that I went through to get into the full-time security role.
 
@@ -22,11 +23,6 @@ I got the idea of creating this repo after seeing [coding-interview-security](ht
 If you study 3-4 hours per day for next 6 months, you can literally clear high rewarding jobs provided you do lots of hands-on and go through each necessary topic/concept more than thrice and you are from tech background. This actually worked in my case.
 >
 >Please note that there are some topics that would be common for any listed security roles. Check [common-skills-study-plan](common-skills-study-plan.md)
->
->I will try my level best to add study references from the beginners perspective but will have even advanced level coverage too.
->
->All the best for your security journey!
-
 
 ## What is it?
 This is to give a study plan to prepare for a specific role. It is of course multi months hard work and dedication which needs a proper roadmap. 
