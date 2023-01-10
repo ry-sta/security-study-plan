@@ -124,6 +124,7 @@ You can start preparing for the job interview once you have solid knowledge as p
 - [ ] Azure Security Study Plan
 - [ ] Fortinet Network Security Study Plan
 - [ ] Qualys Study Plan
+- [ ] CCSP Study Plan
 
 You can check [some common answers from here](https://ayedot.com/119/MiniBlog/General-Interview-Questions-and-their-Answers-for-Tech-Jobs)
 
