@@ -16,7 +16,7 @@ A Practical Study Plan to become a successful cybersecurity engineer with free/p
 10. [Network Security Study Plan](network-security-study-plan.md)
 11. [Fortinet Network Security Engineer](Fortinet-network-security-engineer.md)
 12. [Qualys Vulnerability, Detection and Response Engineer](Qualys-engineer.md)
-13. [Certified Cloud Security Professional] (CCSP-study-plan.md)
+13. [Certified Cloud Security Professional](CCSP-study-plan.md)
 
 I got the idea of creating this repo after seeing [coding-interview-security](https://github.com/jwasham/coding-interview-university) as it echoes the journey that I went through to get into the full-time security role.
 
