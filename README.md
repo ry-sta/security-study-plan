@@ -110,10 +110,10 @@ You can start preparing for the job interview once you have solid knowledge as p
 * Where do you see after 5 years working with this organization?
 
 ## ToDo Updates
-- [x] Common Security Skills for Cybersecurity study plan
-- [x] AWS Security Study Plan
-- [x] Web Penetration Testing Study Plan
-- [x] Application Security Study Plan 
+- [ ] Common Security Skills for Cybersecurity study plan
+- [ ] AWS Security Study Plan
+- [ ] Web Penetration Testing Study Plan
+- [ ] Application Security Study Plan 
 - [ ] API Security Study Plan - *<span style="color:orange;">In Progress...</span>*
 - [ ] GCP Security Study Plan
 - [ ] DevSecOps Study Plan
@@ -121,6 +121,8 @@ You can start preparing for the job interview once you have solid knowledge as p
 - [ ] Docker Security Study Plan
 - [ ] Kubernetes Security Study Plan
 - [ ] Azure Security Study Plan
+- [ ] Fortinet Network Security Study Plan
+- [ ] Qualys Study Plan
 
 You can check [some common answers from here](https://ayedot.com/119/MiniBlog/General-Interview-Questions-and-their-Answers-for-Tech-Jobs)
 
